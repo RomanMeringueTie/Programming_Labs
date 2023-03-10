@@ -27,7 +27,7 @@ IntVector *int_vector_copy(const IntVector *v)
 	copy->data = calloc(int_vector_get_capacity(copy), sizeof(int));
 	if (!copy->data)
 	{
-		free((IntVector *)v);
+		free(copy);
 		return NULL;
 	}
 	memmove(copy->data, v->data, int_vector_get_capacity(copy) * sizeof(int));
