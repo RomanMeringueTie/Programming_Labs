@@ -1,0 +1,9 @@
++
+roma
+/home/stud
+~/games/packman.cpp+~alex/docs+study/Prog/lab4.c+/usr/bin|gcc+~/games/yung/lean/sad/boy/2002/anapa/ginseng/strip/qwerty/uiop/asdfgh/hjkl/zxcvb/nm/igot/anempire/of/emotion/squad/see/me/cruisin/inmygokart/imwar/ho/imwarhol/imwario/whenimin/mariokart/toppinthecharts/aceinmycards/choppamy/locka/whenim/writinthesebars/kokakola/veins/iminsane/tripthroughmemorylane/outin/narashino/andiseemy/ownwhiteshadows/atadtooclose/radwithabaddiagnose+/lab/4/main.c
+
++
+jack
+/home/stud
+~/games/packman.cpp+~alex/docs+~/study/Prog/lab4.c+/usr/bin/gcc
